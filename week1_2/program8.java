@@ -1,5 +1,5 @@
 import java.util.*;
-public class Practice8 {
+public class program8 {
     @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String[]args){
         Scanner sc = new Scanner(System.in);
