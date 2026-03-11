@@ -1,4 +1,4 @@
-public class Practice2 {
+public class Program2 {
     public static void main(String[]args){
         float math,phy,chem;
         math=94;
