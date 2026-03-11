@@ -1,5 +1,5 @@
 import java.util.*;
-public class Pr5 {
+public class pr5 {
     public static void main(String[]args){
         Scanner sc =new Scanner (System.in);
         float num1,num2,c;
