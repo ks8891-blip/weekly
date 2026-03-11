@@ -1,5 +1,5 @@
 import java.util.*;
-public class Pr4 {
+public class pr4 {
     public static void main(String[]args){
         Scanner sc =new Scanner(System.in);
         String name,fromCity,viaCity,toCity;
