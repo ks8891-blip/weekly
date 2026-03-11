@@ -1,4 +1,4 @@
-public class Practice6 {
+public class program6 {
     public static void main(String[]args){
         double fee =125000;
         double dis = (fee*0.1);
