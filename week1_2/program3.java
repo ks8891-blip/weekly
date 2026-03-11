@@ -1,4 +1,4 @@
-public class Practice3 {
+public class program3 {
     public static void main(String[]args){
         float dist=10.8f;
         float mile =(dist*1.6f);
