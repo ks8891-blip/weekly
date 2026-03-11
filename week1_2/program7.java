@@ -1,4 +1,4 @@
-public class Pratice7 {
+public class program7 {
     public static void main(String[]args){
         int ra_km=6378;
         float ra_mile=(ra_km*0.621f);
