@@ -1,4 +1,4 @@
-public class Practice4 {
+public class program4 {
     public static void main(String[] args){
         float cp=129;
         float sp=191;
