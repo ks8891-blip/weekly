@@ -1,4 +1,4 @@
-public class Practice1{
+public class program1{
     public static void main(String[]args){
         int dob=2000;
         int present=2024;
