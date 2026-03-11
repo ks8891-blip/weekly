@@ -1,5 +1,5 @@
 import java.util.*;
-public class Pr9 {
+public class pr9 {
     public static void main(String[]args){
         Scanner sc =new Scanner(System.in);
         float pounds,kilo;
