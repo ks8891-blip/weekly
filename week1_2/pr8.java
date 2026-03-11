@@ -1,5 +1,5 @@
 import java.util.*;
-public class Pr8 {
+public class pr8 {
     public static void main(String[]args){
         Scanner sc =new Scanner(System.in);
         float pri,rate,time,si;
