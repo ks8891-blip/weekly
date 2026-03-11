@@ -1,5 +1,5 @@
 import java.util.*;
-public class Pr7 {
+public class pr7 {
     public static void main(String[]args){
         Scanner sc =new Scanner(System.in);
         int noch,noc;
